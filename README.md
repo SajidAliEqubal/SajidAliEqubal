@@ -85,6 +85,6 @@ Business Impact
 📧 Email: sajidaliequbal@gmail.com
 
 ⭐ "Turning data into decisions and insights into impact."
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SajidAliEqubal&show_icons=true&theme=tokyonight" />
 
 
