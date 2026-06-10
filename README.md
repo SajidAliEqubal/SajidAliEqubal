@@ -87,4 +87,4 @@ Business Impact
 ⭐ "Turning data into decisions and insights into impact."
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/SajidAliEqubal/SajidAliEqubal/blob/output/github-contribution-grid-snake.svg)
+
