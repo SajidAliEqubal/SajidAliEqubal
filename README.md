@@ -99,8 +99,8 @@ I am passionate about transforming data into actionable business insights. Curre
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: Add your LinkedIn profile link here
-📧 Email: Add your professional email here
+💼 LinkedIn: https://www.linkedin.com/in/sajid-ali-equbal-907464163/
+📧 Email: sajidaliequbal@gmail.com
 
 ---
 
