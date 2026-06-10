@@ -77,7 +77,7 @@ Business Impact
 📊 Business Intelligence
 📫 Connect With Me
 
-💼 LinkedIn: www.linkedin.com/in/sajid-ali-equbal-907464163
+💼 LinkedIn: https://www.linkedin.com/in/sajid-ali-equbal-907464163/
 
 📧 Email: sajidaliequbal@gmail.com
 
