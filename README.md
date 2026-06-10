@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Sajid Ali 👋
 
-<!--
-**SajidAliEqubal/SajidAliEqubal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BBA Retail Management Student
 
-Here are some ideas to get you started:
+📊 Interested in:
+- Supply Chain Analytics
+- Power BI
+- SQL
+- Python
+- Advanced Excel
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Learning:
+- Supply Chain Analytics
+- Business Intelligence
+- Data Storytelling
+
+## Skills
+- Power BI
+- SQL
+- Python
+- Excel
+- Power Query
+- DAX
+
+## Projects
+### Supply Chain Control Tower Dashboard
+- Executive Dashboard
+- Inventory Dashboard
+- Supplier Dashboard
+- Forecast Dashboard
