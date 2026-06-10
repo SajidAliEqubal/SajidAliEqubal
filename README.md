@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Sajid%20Ali&fontSize=60&fontAlignY=35&desc=Data%20Analyst%20%7C%20Supply%20Chain%20Analyst%20%7C%20Business%20Intelligence&descAlignY=55&animation=twinkling&fontColor=ffffff" width="100%" />
-
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFhN3c3ZDN6eHF5dGFvMWl4cjl6d3B0YjJ5NnA1NjA5YzVvNmM1biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="500">
+</p>
 👋 Hi, I'm Sajid Ali
 
 🎓 Final-Year BBA (Retail Management) Student
