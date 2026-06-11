@@ -90,3 +90,17 @@ Business Impact
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidAliEqubal&layout=compact&theme=tokyonight" />
 
+## 📂 Featured Projects
+
+### 📦 Supply Chain Control Tower Dashboard
+
+End-to-end Supply Chain Analytics solution built using Power BI, Excel, DAX, and Power Query.
+
+🔗 Repository:
+https://github.com/SajidAliEqubal/Supply-Chain-Control-Tower-Dashboard
+
+Project: Supply Chain Control Tower Dashboard
+Tools Used: Microsoft Power BI, Microsoft Excel, DAX, Power Query
+Dashboards Built: Executive, Inventory, Supplier, Forecast
+KPIs Tracked: Revenue, OTIF, Inventory Risk, Supplier Performance, Forecast Accuracy
+Outcome: Identified supplier delays and inventory risks as the primary causes of service-level issues despite highly accurate demand forecasting.
