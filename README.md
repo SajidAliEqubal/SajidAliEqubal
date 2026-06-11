@@ -99,8 +99,8 @@ End-to-end Supply Chain Analytics solution built using Power BI, Excel, DAX, and
 🔗 Repository:
 https://github.com/SajidAliEqubal/Supply-Chain-Control-Tower-Dashboard
 
-Project: Supply Chain Control Tower Dashboard
-Tools Used: Microsoft Power BI, Microsoft Excel, DAX, Power Query
-Dashboards Built: Executive, Inventory, Supplier, Forecast
-KPIs Tracked: Revenue, OTIF, Inventory Risk, Supplier Performance, Forecast Accuracy
-Outcome: Identified supplier delays and inventory risks as the primary causes of service-level issues despite highly accurate demand forecasting.
+**Project**: Supply Chain Control Tower Dashboard
+**Tools Used**: Microsoft Power BI, Microsoft Excel, DAX, Power Query
+**Dashboards Built**: Executive, Inventory, Supplier, Forecast
+**KPIs Tracked**: Revenue, OTIF, Inventory Risk, Supplier Performance, Forecast Accuracy
+**Outcome**: Identified supplier delays and inventory risks as the primary causes of service-level issues despite highly accurate demand forecasting.
