@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Sajid%20Ali&fontSize=60&fontAlignY=35&desc=Data%20Analyst%20%7C%20Supply%20Chain%20Analyst%20%7C%20Business%20Intelligence&descAlignY=55&animation=twinkling&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=11,0f172a,3b82f6,1d4ed8&text=SAJID%20ALI&fontSize=50&fontAlignY=38&desc=Data%20Analyst%20•%20Supply%20Chain%20•%20Business%20Intelligence&descAlignY=58&descSize=18&fontColor=ffffff&font=auto&animation=fadeIn" width="100%" />
  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Supply+Chain+Analyst;Power+BI+Developer;SQL+Enthusiast;Python+for+Analytics;Turning+Data+Into+Decisions" />
 </p>
 👋 Hi, I'm Sajid Ali Equbal
